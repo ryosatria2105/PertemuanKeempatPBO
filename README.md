@@ -34,3 +34,6 @@ Struktur Folder / File:
 └── Main.java
 
 
+Kesimpulan:
+
+Berdasarkan implementasi kode yang dibuat, program ini berhasil menghubungkan Java di NetBeans dengan PostgreSQL menggunakan JDBC. Fungsionalitas CRUD (Create, Read, Update, Delete) dijalankan melalui class terpisah, sementara menu interaktif di Main.java memudahkan pengguna memilih operasi yang diinginkan. Data berhasil ditambahkan sebanyak 10 record ke dalam tabel dengan minimal 4 kolom, serta dapat ditampilkan, diubah, dan dihapus sesuai kebutuhan. 
